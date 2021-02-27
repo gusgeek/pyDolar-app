@@ -15,6 +15,9 @@ Este proyecto existe gracias a que es mi primera andanza en Python. Me siento mu
     <strong>
       <a href="https://github.com/gusgeek/pyDolar-app/issues/new"> Ofrecer una Idea </a> | 
       <a href="https://github.com/gusgeek/pyDolar-app/releases/latest"> Obtenerlo </a>
+      <br> <br>
+      <a href="https://github.com/gusgeek/pyDolar-lib"> Integrarlo en mi Sistema Python  </a> | 
+      <a href="https://github.com/gusgeek/SAPIDK-Dolar"> Integrarlo en mi Sistema PHP </a>
     </strong>
   </p>
 
