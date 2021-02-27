@@ -105,7 +105,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.idea
+.idea\.gitignore
 # Spyder project settings
 .spyderproject
 .spyproject
