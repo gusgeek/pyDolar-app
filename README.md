@@ -5,9 +5,8 @@
   Una App para cotizar Dolar
 </p>
 
-# Bienvenido
-
-Este proyecto existe gracias a que es mi primera andanza en Python. Me siento muy orgulloso de compartirlo para que vean cómo se puede experimentar con este increíble lenguaje.
+# 
+Este proyecto es mi primera andanza en Python. Me siento muy orgulloso de compartirlo para que vean cómo se puede experimentar con este increíble lenguaje.
 <br><br>
   <p align="center">
   <strong>Tenga presente que este codigo es un experimento</strong>
