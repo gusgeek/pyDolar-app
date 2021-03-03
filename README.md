@@ -17,15 +17,15 @@ Este proyecto es mi primera andanza en Python. Me siento muy orgulloso de compar
       <br>
       <a href="https://github.com/gusgeek/pyDolar-lib"> Integrarlo en mi Sistema Python  </a> | 
       <a href="https://github.com/gusgeek/phpDolar"> Integrarlo en mi Sistema PHP </a>
-      <br>
+      <br> <br>
       Versiones de Terminal
       <br>
-      <a href="https://github.com/gusgeek/pyDolar-app/releases/download/0.1/pyDolar-x64-win.exe"> Descarga para Win10 >=</a> | 
-      <a href="https://github.com/gusgeek/pyDolar-app/releases/download/0.1/pyDolar-x64-linux"> Descarga para Linux </a>
+      <a href="https://github.com/gusgeek/pyDolar-app/releases/download/0.1/pyDolar-x64-win.exe">para Win10 >=</a> | 
+      <a href="https://github.com/gusgeek/pyDolar-app/releases/download/0.1/pyDolar-x64-linux">para Linux </a>
       <br>
       Version GUI
       <br>
-      <a href="https://github.com/gusgeek/pyDolar-app/releases/download/0.2/maintk.exe"> Descarga para Win10 >=  </a>
+      <a href="https://github.com/gusgeek/pyDolar-app/releases/download/0.2/maintk.exe">para Win10 >=  </a>
     </strong>
   </p>
 
