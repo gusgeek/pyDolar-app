@@ -24,9 +24,8 @@ Este proyecto es mi primera andanza en Python. Me siento muy orgulloso de compar
       <a href="https://github.com/gusgeek/pyDolar-app/releases/download/0.1/pyDolar-x64-linux"> Descarga para Linux </a>
       <br>
       Version GUI
+      <br>
       <a href="https://github.com/gusgeek/pyDolar-app/releases/download/0.2/maintk.exe"> Descarga para Win10 >=  </a>
-      
-      
     </strong>
   </p>
 
