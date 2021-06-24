@@ -15,18 +15,20 @@ Este proyecto es mi primera andanza en Python. Me siento muy orgulloso de compar
     <strong>
       <a href="https://github.com/gusgeek/bodi-dolar-py-app/issues/new"> Ofrecer una Idea </a> | 
       <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/latest"> Obtenerlo </a>
-      <br>
-      <a href="https://github.com/gusgeek/bodi-dolar-py-lib"> Integrarlo en mi Sistema Python  </a> | 
-      <a href="https://github.com/gusgeek/bodi-dolar-php"> Integrarlo en mi Sistema PHP </a>
+      <br><br>
+      <strong>Integrarlo en mi Sistema </strong><br>
+      <a href="https://github.com/gusgeek/bodi-dolar-py-lib"> Python  </a> | 
+      <a href="https://github.com/gusgeek/bodi-dolar-php"> PHP </a> | 
+      <a href="https://github.com/gusgeek/bodi-dolar-js"> Js </a>
       <br> <br>
       Versiones de Terminal
       <br>
-      <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/download/0.1/pyDolar-x64-win.exe">para Win10 >=</a> | 
-      <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/download/0.1/pyDolar-x64-linux">para Linux </a>
+      <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/download/0.1/pyDolar-x64-win.exe">Win10 >=</a> | 
+      <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/download/0.1/pyDolar-x64-linux">Linux </a>
       <br>
       Version GUI
       <br>
-      <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/download/0.2/maintk.exe">para Win10 >=  </a>
+      <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/download/0.2/maintk.exe"> Win10 >=  </a>
     </strong>
   </p>
 
