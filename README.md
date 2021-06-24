@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="300" src="https://raw.githubusercontent.com/gusgeek/bodi-dolar-py-app/84f07cf4b21d974374fadaa520e5890291d77125/logo.svg">
+<img width="300" src="https://github.com/gusgeek/bodi-dolar-py-app/blob/main/logo.svg">
   <br>
   Una App para cotizar Dolar
 </p>
