@@ -16,19 +16,12 @@ Este proyecto es mi primera andanza en Python. Me siento muy orgulloso de compar
       <a href="https://github.com/gusgeek/bodi-dolar-py-app/issues/new"> Ofrecer una Idea </a> | 
       <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/latest"> Obtenerlo </a>
       <br><br>
-      <strong>Integrarlo en mi Sistema </strong><br>
+      <strong>Integrarlo en mi Sistema </strong><br><br>
       <a href="https://github.com/gusgeek/bodi-dolar-py-lib"> Python  </a> | 
       <a href="https://github.com/gusgeek/bodi-dolar-php"> PHP </a> | 
       <a href="https://github.com/gusgeek/bodi-dolar-js"> Js </a>
       <br> <br>
-      Versiones de Terminal
-      <br>
-      <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/download/0.1/pyDolar-x64-win.exe">Win10 >=</a> | 
-      <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/download/0.1/pyDolar-x64-linux">Linux </a>
-      <br>
-      Version GUI
-      <br>
-      <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/download/0.2/maintk.exe"> Win10 >=  </a>
+    
     </strong>
   </p>
 
