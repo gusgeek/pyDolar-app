@@ -21,7 +21,6 @@ Este proyecto es mi primera andanza en Python. Me siento muy orgulloso de compar
       <a href="https://github.com/gusgeek/bodi-dolar-php"> PHP </a> | 
       <a href="https://github.com/gusgeek/bodi-dolar-js"> Js </a>
       <br> <br>
-    
     </strong>
   </p>
 
