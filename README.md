@@ -11,7 +11,7 @@ Este proyecto es mi primera andanza en Python. Me siento muy orgulloso de compar
 <br><br>
   <p align="center">
   <strong>Tenga presente que este codigo es un experimento</strong>
-  <br>
+  <br> <br>
     <strong>
       <a href="https://github.com/gusgeek/bodi-dolar-py-app/issues/new"> Ofrecer una Idea </a> | 
       <a href="https://github.com/gusgeek/bodi-dolar-py-app/releases/latest"> Obtenerlo </a>
